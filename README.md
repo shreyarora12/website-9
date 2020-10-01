@@ -8,9 +8,9 @@ Please read this [Coding Style](https://github.com/LFeh/coding-style/) for [Issu
 
 All changes must be made in `/assets` folder.
 
-For make easy the contribution of any people in projects, all commit messages, pull request titles or issues discussions must be in **English**.
+To make it easy for all, the contribution of anyone in projects, commit messages, pull request titles or issues discussions must be in **English**.
 
-Before commit adjustments in project, check if exists an open issue and make references for this issue using '#' in your commit message.
+Before commit adjustments in project, check if an open issue exists and make references for this issue using '#' in your commit message.
 
 ### Getting Started
 
